@@ -1,0 +1,314 @@
+{
+  "0": {
+    "id": 52,
+    "region": "Auckland",
+    "age": "50s",
+    "gender": "F"
+  },
+  "1": {
+    "id": 51,
+    "region": "Nelson",
+    "age": "20s",
+    "gender": "F"
+  },
+  "2": {
+    "id": 50,
+    "region": "Nelson",
+    "age": "60s",
+    "gender": "F"
+  },
+  "3": {
+    "id": 49,
+    "region": "Manawatu",
+    "age": "20s",
+    "gender": "F"
+  },
+  "4": {
+    "id": 48,
+    "region": "Manawatu",
+    "age": "40s",
+    "gender": "M"
+  },
+  "5": {
+    "id": 47,
+    "region": "Taupo",
+    "age": "50s",
+    "gender": "M"
+  },
+  "6": {
+    "id": 46,
+    "region": "Auckland",
+    "age": "70s",
+    "gender": "M"
+  },
+  "7": {
+    "id": 45,
+    "region": "Wellington",
+    "age": "30s",
+    "gender": "F"
+  },
+  "8": {
+    "id": 44,
+    "region": "Wellington",
+    "age": "50s",
+    "gender": "M"
+  },
+  "9": {
+    "id": 43,
+    "region": "Wellington",
+    "age": "50s",
+    "gender": "M"
+  },
+  "10": {
+    "id": 42,
+    "region": "Waikato",
+    "age": "60s",
+    "gender": "F"
+  },
+  "11": {
+    "id": 41,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": "M"
+  },
+  "12": {
+    "id": 40,
+    "region": "Wellington",
+    "age": "50s",
+    "gender": "M"
+  },
+  "13": {
+    "id": 39,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": "M"
+  },
+  "14": {
+    "id": 38,
+    "region": "Wellington",
+    "age": "30s",
+    "gender": "M"
+  },
+  "15": {
+    "id": 37,
+    "region": "Auckland",
+    "age": "40s",
+    "gender": "F"
+  },
+  "16": {
+    "id": 36,
+    "region": "Auckland",
+    "age": "40s",
+    "gender": "M"
+  },
+  "17": {
+    "id": 35,
+    "region": "Auckland",
+    "age": "30s",
+    "gender": "F"
+  },
+  "18": {
+    "id": 34,
+    "region": "Waikato",
+    "age": "70s",
+    "gender": "F"
+  },
+  "19": {
+    "id": 33,
+    "region": "Waikato",
+    "age": "60s",
+    "gender": "M"
+  },
+  "20": {
+    "id": 32,
+    "region": "Hawkes Bay",
+    "age": "30s",
+    "gender": "M"
+  },
+  "21": {
+    "id": 31,
+    "region": "Wellington",
+    "age": "40s",
+    "gender": "M"
+  },
+  "22": {
+    "id": 30,
+    "region": "Canterbury",
+    "age": "50s",
+    "gender": "M"
+  },
+  "23": {
+    "id": 29,
+    "region": "Auckland",
+    "age": "",
+    "gender": ""
+  },
+  "24": {
+    "id": 28,
+    "region": "Southern DHB",
+    "age": "",
+    "gender": ""
+  },
+  "25": {
+    "id": 27,
+    "region": "Southern DHB",
+    "age": "",
+    "gender": ""
+  },
+  "26": {
+    "id": 26,
+    "region": "Auckland",
+    "age": "",
+    "gender": "M"
+  },
+  "27": {
+    "id": 25,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": "M"
+  },
+  "28": {
+    "id": 24,
+    "region": "Rotorua",
+    "age": "",
+    "gender": "M"
+  },
+  "29": {
+    "id": 23,
+    "region": "Northland",
+    "age": "20s",
+    "gender": "M"
+  },
+  "30": {
+    "id": 22,
+    "region": "Taranaki",
+    "age": "40s",
+    "gender": "M"
+  },
+  "31": {
+    "id": 21,
+    "region": "Taranaki",
+    "age": "40s",
+    "gender": "F"
+  },
+  "32": {
+    "id": 20,
+    "region": "Waikato",
+    "age": "70s",
+    "gender": "M"
+  },
+  "33": {
+    "id": 19,
+    "region": "Waikato",
+    "age": "20s",
+    "gender": "F"
+  },
+  "34": {
+    "id": 18,
+    "region": "Canterbury",
+    "age": "40s",
+    "gender": "F"
+  },
+  "35": {
+    "id": 17,
+    "region": "Invercargill",
+    "age": "40s",
+    "gender": "M"
+  },
+  "36": {
+    "id": 16,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": "M"
+  },
+  "37": {
+    "id": 15,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": "M"
+  },
+  "38": {
+    "id": 14,
+    "region": "Auckland",
+    "age": "40s",
+    "gender": "F"
+  },
+  "39": {
+    "id": 13,
+    "region": "Auckland",
+    "age": "50s",
+    "gender": "M"
+  },
+  "40": {
+    "id": 12,
+    "region": "Dunedin",
+    "age": "Teens",
+    "gender": "M"
+  },
+  "41": {
+    "id": 11,
+    "region": "Dunedin",
+    "age": "40s",
+    "gender": "M"
+  },
+  "42": {
+    "id": 10,
+    "region": "Wellington",
+    "age": "70s",
+    "gender": "M"
+  },
+  "43": {
+    "id": 9,
+    "region": "Wellington",
+    "age": "30s",
+    "gender": "M"
+  },
+  "44": {
+    "id": 8,
+    "region": "Wellington",
+    "age": "60s",
+    "gender": "M"
+  },
+  "45": {
+    "id": 7,
+    "region": "Dunedin",
+    "age": "30s",
+    "gender": "F"
+  },
+  "46": {
+    "id": 6,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": "M"
+  },
+  "47": {
+    "id": 5,
+    "region": "Auckland",
+    "age": "40s",
+    "gender": "F"
+  },
+  "48": {
+    "id": 4,
+    "region": "Auckland",
+    "age": "40s",
+    "gender": "M"
+  },
+  "49": {
+    "id": 3,
+    "region": "Auckland",
+    "age": "40s",
+    "gender": "M"
+  },
+  "50": {
+    "id": 2,
+    "region": "Auckland",
+    "age": "30s",
+    "gender": "F"
+  },
+  "51": {
+    "id": 1,
+    "region": "Auckland",
+    "age": "60s",
+    "gender": ""
+  }
+}
